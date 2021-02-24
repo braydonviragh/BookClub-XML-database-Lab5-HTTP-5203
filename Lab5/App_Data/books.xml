@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <id>0001</id>
+    <title>A Study in Scarlet</title>
+    <author title="Sir">
+      <firstname>Arthur</firstname>
+      <middlename>Conan</middlename>
+      <lastname>Doyle</lastname>
+    </author>
+    <!--editor>
+      <firstname>John</firstname>
+      <lastname>Smith</lastname>
+    </editor-->
+  </book>
+  <book>
+    <id>0002</id>
+    <title>Don Juan</title>
+    <author title="Lord">
+      <lastname>Byron</lastname>
+      <firstname>George</firstname>
+    </author>
+  </book>
+  <book>
+    <title>dfsf</title>
+    <author title="sdfs">
+      <firstname>sdfs</firstname>
+      <middlename>sdfs</middlename>
+      <lastname>sdfs</lastname>
+    </author>
+    <id>005</id>
+  </book>
+  <book>
+    <title>My Book</title>
+    <author title="Dr">
+      <firstname>B</firstname>
+      <middlename>P</middlename>
+      <lastname>V</lastname>
+    </author>
+    <id>006</id>
+  </book>
+</books>
